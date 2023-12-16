@@ -1,7 +1,7 @@
 require('dotenv').config()
 
 const express = require(`express`)
-const knex = require(`./conexão`)
+const knex = require(`./conexao`)
 const cors = require('cors')
 
 
